@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-yellow/static/css/main.26423037.css",
+    "main.js": "/react-yellow/static/js/main.3c6c4287.js",
+    "index.html": "/react-yellow/index.html",
+    "main.26423037.css.map": "/react-yellow/static/css/main.26423037.css.map",
+    "main.3c6c4287.js.map": "/react-yellow/static/js/main.3c6c4287.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26423037.css",
+    "static/js/main.3c6c4287.js"
+  ]
+}
